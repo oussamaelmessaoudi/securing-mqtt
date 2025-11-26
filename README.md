@@ -31,7 +31,7 @@ This project exposes critical vulnerabilities in default MQTT broker configurati
 
 ### 🎓 Academic Context
 
-- **Course**: CyberSecurity - Embedded Systems & IoT Security
+- **Course**: CyberSecurity - Computer Engineering & Embedded Systems
 - **Institution**: Université Ibn Zohr, Faculté des Sciences d'Agadir
 - **Program**: IISE (Ingénierie Informatique et Systèmes Embarqués)
 - **Professor**: Monsef Boughrous
@@ -405,7 +405,10 @@ mqtt-security-audit/
 ## 👥 Team
 
 **IISE Students - Cybersecurity Project**
-
+Oussama ELMESSAOUDI
+Yassine EL ATIKI
+Abdessamad ASKLOU
+Nourreddine AIT MOULAY BRAHIM
 *Université Ibn Zohr, Faculté des Sciences d'Agadir*
 
 > 💡 **Note**: This project was conducted in a controlled lab environment. All security testing was performed ethically on systems owned and operated by the project team.
@@ -436,7 +439,7 @@ This project is for **educational purposes only**.
 ## 📞 Contact & Feedback
 
 For questions about this project:
-- 📧 Email: [your.email@edu.ma]
+- 📧 Email: [oussama.elmessaoudi.39@edu.uiz.ac.ma]
 - 🎓 Course: CyberSecurity - Prof. Monsef Boughrous
 
 ---
