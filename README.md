@@ -291,7 +291,7 @@ Professional presentation covering:
 ## 📁 Repository Structure
 
 ```
-mqtt-security-audit/
+securing-mqtt/
 ├── 📁 config/
 │   ├── mosquitto.conf.vulnerable    # Insecure baseline
 │   ├── mosquitto.conf.secure        # Hardened configuration
@@ -405,10 +405,15 @@ mqtt-security-audit/
 ## 👥 Team
 
 **IISE Students - Cybersecurity Project**
+
 Oussama ELMESSAOUDI
+
 Yassine EL ATIKI
+
 Abdessamad ASKLOU
+
 Nourreddine AIT MOULAY BRAHIM
+
 *Université Ibn Zohr, Faculté des Sciences d'Agadir*
 
 > 💡 **Note**: This project was conducted in a controlled lab environment. All security testing was performed ethically on systems owned and operated by the project team.
